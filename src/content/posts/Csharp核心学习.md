@@ -2,7 +2,7 @@
 title: C#核心学习
 published: 2026-07-24
 description: 学习Csharp核心知识
-image: .\images\640.jpeg
+image: ./images/640.jpeg
 tags: [Csharp]
 category: 游戏开发
 draft: false

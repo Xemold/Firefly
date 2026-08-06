@@ -2,7 +2,7 @@
 title: C#基础学习
 published: 2026-07-18
 description: 学习Csharp基础
-image: .\images\pizza.webp
+image: ./images/pizza.webp
 tags: [Csharp]
 category: 游戏开发
 draft: false

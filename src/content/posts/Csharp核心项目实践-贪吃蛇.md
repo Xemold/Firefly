@@ -2,7 +2,7 @@
 title: C#核心——项目实践
 published: 2026-08-05
 description: 根据所学到的知识写一个贪吃蛇小游戏
-image: .\images\Jerry.avif
+image: ./images/Jerry.avif
 tags: [Csharp]
 category: 游戏开发
 draft: false
