@@ -45,7 +45,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	// 本地音乐配置（当 mode 为 'local' 时使用）
 	// 1. 支持传入歌词文件的路径
 	// lrc: "/assets/music/lrc/使一颗心免于哀伤-哼唱.lrc",
-	// 2. 或者直接填入歌词字符串内容
+	// 2. 或者直接填入歌词字符串内容  花の塔 - さユり
 	// lrc: "[00:00.00]歌词内容...",
 	local: {
 		playlist: [
@@ -56,7 +56,16 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/cover_1.jpg",
 				lrc: "/assets/music/lyric/Departures〜あなたにおくるアイの歌〜 - EGOIST.lrc",
 			},
+
+			{
+				name: "花の塔",
+				artist: "酸欠少女さユり",
+				url: "/assets/music/花の塔-さユり.mp3",
+				cover: "/assets/music/cover/cover_2.jpg",
+				lrc: "/assets/music/lyric/花の塔 - さユり.lrc",
+			},
 		],
+
 
 	},
 };
