@@ -217,7 +217,7 @@ namespace question_1
 
 ```
 
-![image-20260720210354473](.\images\image-20260720210354473.png)
+![image-20260720210354473](./images/image-20260720210354473.png)
 
 ### 第二题
 
