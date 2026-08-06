@@ -180,7 +180,7 @@ namespace Lession1_枚举
 
 ## 练习题目
 
-![image-20260720154628060](.\images\image-20260720154628060.png)
+![image-20260720154628060](./images/image-20260720154628060.png)
 
 
 
@@ -278,7 +278,7 @@ namespace question_1
 
 ```
 
-![image-20260720212104795](.\images\image-20260720212104795.png)
+![image-20260720212104795](./images/image-20260720212104795.png)
 
 ### 第三题
 
@@ -381,7 +381,7 @@ namespace question_1
 
 ```
 
-![image-20260720214735051](.\images\image-20260720214735051.png)
+![image-20260720214735051](./images/image-20260720214735051.png)
 
 # 数组
 
